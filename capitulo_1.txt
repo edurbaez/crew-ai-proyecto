@@ -1,0 +1,190 @@
+¡Bienvenido a esta emocionante aventura de aprender alemán! Estás a punto de descubrir un idioma lleno de matices, cultura y posibilidades. En tus manos tienes una herramienta poderosa que te abrirá puertas a nuevas experiencias, amistades y oportunidades. En este viaje, es esencial comprender los cimientos del alemán: los artículos definidos (der, die, das) y el verbo 'sein' en presente. Estos elementos son el núcleo de la comunicación, y dominar su uso te brindará la confianza necesaria para expresarte con claridad y precisión.
+
+Los artículos son como las llaves que desbloquean los significados de las palabras. Te ayudarán a identificar géneros y establecer conexiones en frases. Por otro lado, el verbo 'sein' es fundamental para describir estados, identidades y situaciones, lo que te permitirá conectar de manera más profunda con lo que deseas comunicar.
+
+Recuerda, cada nuevo conocimiento que adquieras te acerca más a tus objetivos. La perseverancia y la dedicación son tus mejores aliadas en este camino. No dudes en sumergirte en este mundo fascinante del idioma alemán —el futuro contactará gratamente contigo cuando te atrevas a dar ese primer paso. ¡Adelante, el éxito te espera!
+
+### 1) Artículos definidos (der, die, das)
+
+En alemán, usamos artículos definidos para indicar un sustantivo específico. Según el género del sustantivo (masculino, femenino o neutro), utilizamos diferentes formas de los artículos definidos:
+
+- **Masculino (der)**: Se usa con sustantivos masculinos.  
+  **Ejemplo**:  
+  - **Der Mann** (el hombre)  
+    - "Der Mann ist hier." (El hombre está aquí.)
+
+- **Femenino (die)**: Se usa con sustantivos femeninos.  
+  **Ejemplo**:  
+  - **Die Frau** (la mujer)  
+    - "Die Frau liest ein Buch." (La mujer lee un libro.)
+
+- **Neutro (das)**: Se usa con sustantivos neutros.  
+  **Ejemplo**:  
+  - **Das Kind** (el niño)  
+    - "Das Kind spielt im Garten." (El niño juega en el jardín.)
+
+#### Declinaciones según el caso gramatical:
+Los artículos también cambian según el caso: nominativo, acusativo, dativo y genitivo.
+
+- **Nominativo**: usado como sujeto de la oración. 
+- **Acusativo**: usado como objeto directo. 
+- **Dativo**: usado como objeto indirecto. 
+- **Genitivo**: expresa posesión.
+
+**Ejemplos de declinación en caso nominativo y acusativo**:
+- Masculino:  
+  - Nominativo: **der Hund** (el perro)  
+  - Acusativo: **den Hund** 
+
+- Femenino:  
+  - Nominativo: **die Katze** (la gata)  
+  - Acusativo: **die Katze** 
+
+- Neutro:  
+  - Nominativo: **das Buch** (el libro)  
+  - Acusativo: **das Buch**
+
+### 2) Verbo 'sein' en presente
+
+El verbo 'sein' (ser/estar) es irregular y se conjuga de la siguiente manera en presente:
+
+- **ich bin** (yo soy/estoy)
+- **du bist** (tú eres/estás)
+- **er/sie/es ist** (él/ella/eso es/está)
+- **wir sind** (nosotros somos/estamos)
+- **ihr seid** (vosotros sois/estáis)
+- **sie/Sie sind** (ellos/ellas son/están / usted es/está)
+
+#### Ejemplos:
+- **Ich bin Lehrer.** (Yo soy profesor.)
+- **Du bist müde.** (Tú estás cansado.)
+- **Er ist glücklich.** (Él está feliz.)
+- **Wir sind Freunde.** (Nosotros somos amigos.)
+- **Ihr seid nett.** (Ustedes son amables.)
+- **Sie sind im Park.** (Ellos están en el parque.)
+
+### Consejos útiles:
+- Memoriza los determinantes asociados con la palabra que estás aprendiendo para que sea más fácil recordar el género.
+- Practica construyendo oraciones con 'sein' para familiarizarte con su conjugación y uso.
+
+Con estos conceptos te estarás adentrando efectivamente en el aprendizaje del alemán. ¡No dudes en usar estos artículos y el verbo 'sein' al practicar y comunicarte! La práctica constante es clave para el dominio del idioma. ¡Sigue adelante, éxito en tu aventura lingüística!
+
+### Vocabulario
+1. der Mann - el hombre - die Männer  
+2. die Frau - la mujer - die Frauen  
+3. das Kind - el niño - die Kinder  
+4. der Hund - el perro - die Hunde  
+5. die Katze - la gata - die Katzen  
+6. das Buch - el libro - die Bücher  
+7. ich - yo - (n/a)  
+8. du - tú - (n/a)  
+9. er - él - (n/a)  
+10. sie - ella - (n/a)  
+11. es - eso - (n/a)  
+12. wir - nosotros - (n/a)  
+13. ihr - vosotros - (n/a)  
+14. sie - ellos - (n/a)  
+15. sein - ser/estar - (n/a)  
+16. bin - soy/estoy - (n/a)  
+17. bist - eres/estás - (n/a)  
+18. ist - es/está - (n/a)  
+19. sind - somos/estamos - (n/a)  
+20. seid - sois/estáis - (n/a)  
+21. müde - cansado - (n/a)  
+22. glücklich - feliz - (n/a)  
+23. nett - amable - (n/a)  
+24. Freunde - amigos - (n/a)  
+25. Park - parque - die Parks  
+26. Buch - libro - die Bücher  
+27. Garten - jardín - die Gärten  
+28. Schlüssel - llave - die Schlüssel  
+29. Beziehung - relación - die Beziehungen  
+30. Möglichkeit - posibilidad - die Möglichkeiten  
+
+Esta lista incluye una variedad de sustantivos, verbos y adjetivos, así como sus traducciones y plurales donde aplican, para facilitar tu aprendizaje del alemán. ¡Espero que te sea de gran ayuda en tu aventura lingüística!
+
+### Ejercicios para practicar artículos definidos y el verbo 'sein' en presente
+
+#### Ejercicio 1: Completa las oraciones con el artículo definido correcto (der, die, das).
+1. _____ Mann ist freundlich.  
+2. _____ Frau liest ein Buch.  
+3. _____ Kind spielt im Garten.  
+4. _____ Hund ist hier.  
+5. _____ Katze schläft.  
+
+#### Ejercicio 2: Completa las oraciones con la forma correcta del verbo 'sein'.
+1. Ich _____ müde.  
+2. Du _____ mein Freund.  
+3. Er _____ glücklich.  
+4. Wir _____ in der Schule.  
+5. Sie _____ meine Nachbarn.  
+
+#### Ejercicio 3: Responde a las preguntas usando el verbo 'sein' y el artículo definido correcto.
+1. Wer ist das? (la mujer)  
+   - _____ die Frau.  
+2. Was ist das? (el libro)  
+   - _____ das Buch.  
+3. Wer ist er? (el hombre)  
+   - _____ der Mann.  
+4. Wo sind wir? (el parque)  
+   - _____ der Park.  
+5. Wer ist das? (el niño)  
+   - _____ das Kind.  
+
+#### Ejercicio 4: Usa los artículos y el verbo 'sein' para describir a las siguientes personas o cosas.
+1. Ich (müde) - 
+   - Ich _____ müde.
+2. Du (freundlich) - 
+   - Du _____ freundlich.  
+3. Er (glücklich) - 
+   - Er _____ glücklich.
+4. Wir (hier) - 
+   - Wir _____ hier.
+5. Sie (Freunde) - 
+   - Sie _____ Freunde.  
+
+#### Ejercicio 5: Completa las oraciones con el artículo y el verbo 'sein' correcto.
+1. _____ Katze _____ (ser/estar) süß.  
+2. _____ Mann _____ (ser/estar) stark.  
+3. _____ Kinder _____ (ser/estar) im Park.  
+4. _____ Frau _____ (ser/estar) freundlich.  
+5. _____ Buch _____ (ser/estar) interessant.  
+
+### Sección de soluciones
+
+#### Soluciones Ejercicio 1:
+1. Der
+2. Die
+3. Das
+4. Der
+5. Die  
+
+#### Soluciones Ejercicio 2:
+1. bin
+2. bist
+3. ist
+4. sind
+5. sind  
+
+#### Soluciones Ejercicio 3:
+1. Das ist die Frau.
+2. Das ist das Buch.
+3. Das ist der Mann.
+4. Wir sind im Park.
+5. Das ist das Kind.  
+
+#### Soluciones Ejercicio 4:
+1. Ich bin müde.
+2. Du bist freundlich.
+3. Er ist glücklich.
+4. Wir sind hier.
+5. Sie sind Freunde.  
+
+#### Soluciones Ejercicio 5:
+1. Die
+2. Der
+3. Die
+4. Die
+5. Das
+
+¡Practica estos ejercicios y mejora tu comprensión sobre los artículos definidos y el verbo 'sein' en presente!
